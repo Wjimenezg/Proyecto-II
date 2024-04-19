@@ -1,5 +1,15 @@
 package matrizortogonal;
 
+/*Requisitos necesarios para ejecutar el proyecto
+1) Java Development Kit (JDK)
+2) Conocimientos Básicos de Java
+3) Consola de Comandos o Terminal
+4) Sistema Operativo Compatible, minimo Windows 7, Mac 10.10, Linux reciente
+5) minimo 512MB de memoria RAM
+6) minimo Procesador Core i3
+7) minimo 500MB de espacio en el disco duro
+*/
+
 public class MatrizDinamica {
     Nodo inicio; // primer nodo de la matriz dinamica
     
